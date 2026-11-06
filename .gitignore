@@ -1,0 +1,8 @@
+#VSCode stuff..
+.vscode/
+# Mac OS X stuff...
+.DS_Store
+
+terraform/.terraform/**
+**.terraform*
+**terraform.tfstate*
